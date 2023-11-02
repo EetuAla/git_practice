@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 fdsaljfdsafkldsfökjlsdaökjfdsakjölfölkdsjflkdsakjflsdjklfödsafldsjliejworjeowijfkdsaflkdsmdslkafnslkafndlksanölfndslakeiwriuwdjsfdshkfjds moi
 Moi kaikki
+=======
+fdsaljfdsafkldsfökjlsdaökjfdsakjölfölkdsjflkdsakjflsdjklfödsafldsjliejworjeowijfkdsaflkdsmdslkafnslkafndlksanölfndslakeiwriuwdjsfdshkfjds
+Moi kaikki!
+>>>>>>> Stashed changes
