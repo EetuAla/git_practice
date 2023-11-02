@@ -5,3 +5,6 @@ Coffee
 Paper
 Bananas
 Oranges
+Apples
+Butter
+Cream
